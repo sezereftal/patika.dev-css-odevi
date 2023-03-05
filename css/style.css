@@ -1,0 +1,65 @@
+h1 {
+    color:#E7B10A ;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: #898121;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color:#000000;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: aqua;
+}
+
+body {
+    list-style: inside; text-transform: capitalize; background-color: darkgray; text-align: center;
+}
+
+.text-ust {
+    color:#F7F1E5
+}
+
+
+.text-koyusari {
+    color: #898121
+}
+
+.text-enalt {
+    color: #4C4B16
+}
+
+.fs-small {
+    font-size: 16px;
+}
+
+.fs-medium {
+    font-size: 25px;
+}
+
+.fs-large {
+    font-size: 40px;
+}
+
+.ff-new {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ff-fan {
+    font-family: fantasy;
+}
+
+table {
+    background-color:#000000 ; color: #F7F1E5; font-size: 30px; margin-left: auto; margin-right: auto;
+}
+
+
+
